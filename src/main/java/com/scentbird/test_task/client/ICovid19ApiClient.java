@@ -1,4 +1,4 @@
-package com.scentbird.test_task.client.items;
+package com.scentbird.test_task.client;
 
 import com.scentbird.test_task.model.ByCountryTotalResponse;
 import org.springframework.cloud.openfeign.FeignClient;

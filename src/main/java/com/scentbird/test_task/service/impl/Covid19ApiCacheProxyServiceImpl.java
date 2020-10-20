@@ -1,6 +1,6 @@
 package com.scentbird.test_task.service.impl;
 
-import com.scentbird.test_task.client.items.ICovid19ApiClient;
+import com.scentbird.test_task.client.ICovid19ApiClient;
 import com.scentbird.test_task.model.ByCountryTotalResponse;
 import com.scentbird.test_task.service.ICovid19ApiCacheProxyService;
 import lombok.RequiredArgsConstructor;
